@@ -31,5 +31,5 @@ The player is able to move his tank in four directions: up, down, left, right. T
 2. Spacebar for shooting.
 ## Screenshots
 
-## About the developers
+## About the developer
 This project is designed by Joseph Hong, a 2nd year undergraduate student with Game Design & Development major. He is studying program language C# and other skills needed to make a video game, including 3D models, animations, working with teams, and creating web pages. His favorite game is Legend of Zelda series, Super Mario series and Undertale.
