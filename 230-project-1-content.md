@@ -1,5 +1,5 @@
-# Tank's Pacifist Run Proposal
-## High Concept
+# Tank's Pacifist Run
+## Proposal - High Concept
 A top-down game inspired from the classic arcade game, "Tank" with a twist. The object is to dodge the other tanks attacks for a limited time without shooting or killing them. The time limits will get longer as the level increases. This game will discourage the player from beating the game without killing.
 _____ 
 ## Genre
@@ -30,6 +30,7 @@ The player is able to move his tank in four directions: up, down, left, right. T
 1. Up Down Left Right arrows or WASD keys for moving.
 2. Spacebar for shooting.
 ## Screenshots
-
-## About the developer
+![Title Screen](/project1/media/TankTitle.jpg)
+![Gameplay Screen](/project1/media/TankGamePlay.jpg)
+## About the developers
 This project is designed by Joseph Hong, a 2nd year undergraduate student with Game Design & Development major. He is studying program language C# and other skills needed to make a video game, including 3D models, animations, working with teams, and creating web pages. His favorite game is Legend of Zelda series, Super Mario series and Undertale.
